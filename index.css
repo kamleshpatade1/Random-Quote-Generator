@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh ;
+}
+#btn{
+    position: fixed;
+    bottom: 180px;   
+    right: 500px;    
+    padding: 12px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.one{
+    position: fixed;;
+    top: 50px
+}
